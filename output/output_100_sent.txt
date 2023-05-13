@@ -1,0 +1,852 @@
+Chain of Thought: The last letter of "Bill" is "l". The last letter of "Gates" is "s". Concatenating them is "ls".
+
+Local Attributions:
+Take the last letters of the words in "Waldo Schmidt" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Leonard Friedman" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Angel Sosa" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Daniel Friedman" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Scotty Ferguson" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Hiram Hendricks" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Dusty Daniel" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Louis Joseph" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Scottie Hampton" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Olen Ortiz" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Lawrence Bell" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Blaine Morton" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Samuel Turner" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Amado Delacruz" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Alonzo Floyd" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Jarrett Hancock" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Kendall Mcpherson" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Elton Shelton" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Rubin Morrow" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Steve Sweeney" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Houston Tran" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Chad Howell" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Shelton Pollard" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Booker Mills" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Jamaal Cantrell" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Theron Heath" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Jed Copeland" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.666667  0.666667  0.0          1.0
+     (1,)            0       0.166667  0.166667  0.0          0.0
+     (2,)            0       0.166667  0.166667  0.0          0.0
+   (0, 1)            0       0.000000 -0.500000  0.0          1.0
+   (0, 2)            0       0.000000 -0.500000  0.0          1.0
+   (1, 2)            1       0.000000  0.500000  0.0          1.0
+(0, 1, 2)           -1       0.000000 -1.000000  0.0          1.0
+
+Take the last letters of the words in "Walter Day" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Floyd Hardy" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Landon Garner" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Mason Gordon" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "William Velazquez" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Rupert Lee" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Oliver Wise" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Daniel Ewing" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Carol Zuniga" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Delmer Andersen" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Lemuel Larsen" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Ellis Hartman" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Damon Jacobson" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Denis Mckee" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Randell Aguirre" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Ian Galloway" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Trenton Hernandez" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Sam Chase" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Ernesto Watkins" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Gregg Clay" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Trey Hendricks" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Garth Solis" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Jarrod Randall" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Alberto Jones" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Wilson Chavez" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Zachariah Oneill" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Donny Chase" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Emmett Kemp" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Ulysses Brown" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Eddy Cook" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Kevin Padilla" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Reggie Weiss" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Jorge Richard" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Cesar Fitzpatrick" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Vern Griffin" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Randall Bradford" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Julio Walter" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Arron Warren" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Homer Montgomery" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Denny Norris" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Wilfred Campos" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Isaiah Brady" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Frances Golden" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Riley Cain" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "James Leonard" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Osvaldo Schwartz" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Everett Simmons" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Stewart Finley" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Jules Silva" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Frances Atkins" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Julio Andrade" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Louie Christian" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Lucio Miranda" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Hollis Garcia" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Jason Gonzalez" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Marvin Dillon" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Wilson Gonzalez" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Bret Herrera" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Erich Richard" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Gale Kidd" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Matt Foley" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Sonny Montoya" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Jack Watson" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Christopher Watkins" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Clifford Smith" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Desmond Todd" and concatenate them.
+Standard prompt is sufficient.
+
+Take the last letters of the words in "Ward Patel" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Garrett Kelly" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Isidro Keller" and concatenate them.
+ Features  Attribution  Shapely Value       SII  TIE  Archipelago
+     (0,)            1       0.333333  0.333333  0.0          1.0
+     (1,)            1       0.333333  0.333333  0.0          1.0
+     (2,)            1       0.333333  0.333333  0.0          1.0
+   (0, 1)           -1       0.000000 -0.500000  0.0          1.0
+   (0, 2)           -1       0.000000 -0.500000  0.0          1.0
+   (1, 2)           -1       0.000000 -0.500000  0.0          1.0
+(0, 1, 2)            1       0.000000  1.000000  0.0          1.0
+
+Take the last letters of the words in "Reid Horne" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Sherman Valdez" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Ferdinand Doyle" and concatenate them.
+ Features  Attribution  Shapely Value  SII  TIE  Archipelago
+     (0,)            1            0.5  0.5  0.0          1.0
+     (1,)            1            0.5  0.5  0.0          1.0
+     (2,)            0            0.0  0.0  0.0          0.0
+   (0, 1)           -1            0.0 -1.0  0.0          1.0
+   (0, 2)            0            0.0  0.0  0.0          1.0
+   (1, 2)            0            0.0  0.0  0.0          1.0
+(0, 1, 2)            0            0.0  0.0  0.0          1.0
+
+Take the last letters of the words in "Peter Davis" and concatenate them.
+Standard prompt is sufficient.
+
+Global attributions:
+Number of samples: 77
+ Features  Attribution  Shapely Value       SII          TIE  Archipelago
+     (0,)     1.000000       0.406926  0.406926 4.440892e-16     1.000000
+     (1,)     0.987013       0.400433  0.400433 3.330669e-16     0.987013
+     (2,)     0.571429       0.192641  0.192641 2.220446e-16     0.571429
+   (0, 1)    -0.987013       0.000000 -0.707792 0.000000e+00     1.000000
+   (0, 2)    -0.571429       0.000000 -0.292208 0.000000e+00     1.000000
+   (1, 2)    -0.558442       0.000000 -0.279221 0.000000e+00     1.000000
+(0, 1, 2)     0.558442       0.000000  0.558442 0.000000e+00     1.000000
