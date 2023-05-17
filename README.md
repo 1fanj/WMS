@@ -1,6 +1,6 @@
 # The Weighted Möbius Score: A Unified Framework for Feature Attribution
 
-This repository is the official implementation of [The Weighted Möbius Score: A Unified Framework for Feature Attribution](https://arxiv.org/abs/2305.09204). 
+Code for [The Weighted Möbius Score: A Unified Framework for Feature Attribution](https://arxiv.org/abs/2305.09204). 
 
 ## Requirements
 
@@ -8,7 +8,6 @@ To install requirements:
 
 ```setup
 conda create --name myenv --file requirements.txt
-```
 ```
 
 ## CMA Experiment
